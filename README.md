@@ -1,2 +1,2 @@
-# clickMongo
-another mongo client 
+# clicklabs-mongo-client
+Connect Mongo using node js

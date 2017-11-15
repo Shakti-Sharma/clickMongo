@@ -1,0 +1,20 @@
+{
+  "name": "clickmongo",
+  "version": "1.0.0",
+  "description": "npm client to use mongo",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "node",
+    "mongodb",
+    "connection"
+  ],
+  "author": "mr.shaktishrma",
+  "license": "MIT",
+  "dependencies": {
+    "mongodb": "^2.2.33"
+  }
+}
